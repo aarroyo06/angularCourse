@@ -28,4 +28,6 @@ console.log(carroJSON); // fijese en la consola, tambien puede hacer alert y dar
         usando: 
         nombreJson['propiedad'] = valor;
         nombreJson.propiedad = valor;
+
+        alex change ...
 */
